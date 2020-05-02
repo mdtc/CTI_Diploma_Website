@@ -1,0 +1,30 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.content {
+  margin-top: 50px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  text-color: #E2EFEF;
+}
+.footer-content {
+  line-height: 60px;
+}
+.logoImg {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  margin-top: 2px;
+  margin-right: 10px;
+}
+
